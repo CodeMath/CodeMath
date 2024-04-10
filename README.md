@@ -41,4 +41,4 @@
 
 
 ### Resume
-My resume is here 👉 [Link to notion](https://www.notion.so/jadecon/DongHyeok-jaden-Lee-Pythonist-Python-Django-Backend-Engineer-8d36285e282444a6858886c5fafae1da?pvs=4)
+My resume is here 👉 [Link to notion](https://jadecon.notion.site/DongHyeok-jaden-Lee-Pythonist-Python-Django-Backend-Engineer-8d36285e282444a6858886c5fafae1da?pvs=74)
